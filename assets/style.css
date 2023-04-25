@@ -39,6 +39,7 @@ body {
 }
 
 .social-link img {
+  height: auto;
   width: 20px;
 }
 
@@ -69,6 +70,7 @@ body {
 
 .picture img {
   width: 100%;
+  height: auto;
 }
 #about-me {
   flex: 2;
